@@ -57,3 +57,4 @@ A default route in a route table directs traffic to the Internet Gateway (IGW), 
 
 ### 20. What is the purpose of the Amazon VPC Endpoint?
 An Amazon VPC Endpoint enables you to privately connect your VPC to supported AWS services and VPC endpoint services without needing an internet gateway or VPN connection.
+21.
